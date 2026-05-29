@@ -89,7 +89,7 @@ MonoBehaviour:
   Path: FMOD/Build/Desktop/Master.strings.bank
   Name: Master.strings
   StudioPath: bank:/Master.strings
-  lastModified: 639156040818860921
+  lastModified: 639156377495288468
   FileSizes:
   - Name: Desktop
     Value: 1500
@@ -478,7 +478,7 @@ MonoBehaviour:
   StringsBanks:
   - {fileID: -6499401304996108622}
   cacheVersion: 131859
-  cacheTime: 639156040818860921
+  cacheTime: 639156377495288468
   SerializableEventsDict:
   - key: event:/amb-tavern
     index: 0
@@ -1038,7 +1038,7 @@ MonoBehaviour:
   Path: FMOD/Build/Desktop/Master.bank
   Name: Master
   StudioPath: bank:/Master
-  lastModified: 639156040818851005
+  lastModified: 639156377495278513
   FileSizes:
   - Name: Desktop
     Value: 4641056
